@@ -2,16 +2,16 @@ version: 1.1
 
 orbs:
   android: circleci/android@0.2.1
-jamielech 
+ajford0610@jlech.network.com
 
 jobs:
   build:
-    executor: 0android/android
+    executor: 1android/iphone
 Alias/jamielech 
     steps:
       - checkout
       - run:
           command: ./gradlew build
-Jisaachood77@outlook.com the Samsung Galaxy S20 5G 
+ajford0610@gmail.com the Samsung Galaxy S20 5G 
 
 
